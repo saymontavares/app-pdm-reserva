@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MasterChef - Reservas</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="esqueceu_senha">Esqueceu sua senha?</string>
+    <string name="login_facebook">Login com Facebook</string>
+    <string name="login_google">Login com Google</string>
+    <string name="n_tem_conta">Não possui uma conta? Crie Agora</string>
+    <string name="numero_mesa">Número Mesa</string>
+    <string name="liberar_mesa">Liberar Mesa</string>
+    <string name="salvar_operacao">Salvar Operação</string>
+    <string name="reservar_todas_mesas">RESERVAR TODAS AS MESAS</string>
+</resources>
